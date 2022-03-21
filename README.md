@@ -9,4 +9,4 @@ A tiny, secure algorithm to prove JavaScript is Easy.
 
 *Happy Programming ♥️*
 
-*Declar Vairable, Not War*
+*Declar Variables, Not War*
